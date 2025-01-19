@@ -10,3 +10,6 @@
 [submodule "layers/meta-raspberrypi"]
 	path = layers/meta-raspberrypi
 	url = git://git.yoctoproject.org/meta-raspberrypi
+[submodule "layers/meta-rpi5"]
+	path = layers/meta-rpi5
+	url = git@github.com:benmelville/meta-rpi5.git

@@ -17,3 +17,7 @@ source the environment script
 ```bash
 . oe-init-build-env 
 ```
+
+
+bitbake -c clean linux-raspberrypi
+bitbake -c fetch linux-raspberrypi
