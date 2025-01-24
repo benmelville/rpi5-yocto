@@ -15,7 +15,12 @@ git clone git://git.yoctoproject.org/poky -b scarthgap
 
 source the environment script
 ```bash
-. oe-init-build-env 
+. ./oe-init-build-env ../build/
+```
+
+To attach a root bash env
+```bash
+ docker container exec -u 0 -it ben-ubuntu-yocto bash 
 ```
 
 
