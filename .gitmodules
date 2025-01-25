@@ -4,12 +4,12 @@
 [submodule "layers/meta-qt5"]
 	path = layers/meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5.git
-[submodule "layers/openembedded-core"]
-	path = layers/openembedded-core
-	url = git://git.openembedded.org/openembedded-core.git
 [submodule "layers/meta-raspberrypi"]
 	path = layers/meta-raspberrypi
 	url = git://git.yoctoproject.org/meta-raspberrypi
 [submodule "layers/meta-rpi5"]
 	path = layers/meta-rpi5
 	url = git@github.com:benmelville/meta-rpi5.git
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
