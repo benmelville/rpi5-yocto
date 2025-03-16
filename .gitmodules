@@ -10,3 +10,6 @@
 [submodule "layers/meta-openembedded"]
 	path = layers/meta-openembedded
 	url = git://git.openembedded.org/meta-openembedded
+[submodule "layers/meta-qt6"]
+	path = layers/meta-qt6
+	url = https://github.com/YoeDistro/meta-qt6.git
